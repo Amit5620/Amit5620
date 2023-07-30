@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar Mondal</h1>
 <h4 align="center">A passionate about Machine learning, Competitive Programming & frontend development.</h4>
 
-- 🌱 I’m currently learning **Machine Learning & Data structures.**
+- 🌱 I’m currently learning **Machine Learning & Data structures and Algorithm.**
 
 - 💬 Ask me about **Machine Learning and Competitive Programming..**
 
